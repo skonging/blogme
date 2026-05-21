@@ -1,3 +1,7 @@
+---
+title: 软件推荐
+date: 2026-05-18
+---
 # 软件
 ## Geek Uninstaller
     官网下载 https://geekuninstaller.com/
